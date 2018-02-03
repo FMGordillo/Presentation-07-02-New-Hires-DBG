@@ -1,5 +1,7 @@
 ---
 applications:
 - name: fmgordillo-presentation-07-02-18
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 64M
   instances: 2
+  command: npm start
