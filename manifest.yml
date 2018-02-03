@@ -1,0 +1,5 @@
+---
+applications:
+- name: fmgordillo-presentation-07-02-18
+  memory: 64M
+  instances: 2
