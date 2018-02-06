@@ -4,4 +4,4 @@ applications:
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 128M
   instances: 1
-  command: npm start
+  command: node index.js
