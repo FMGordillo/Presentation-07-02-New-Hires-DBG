@@ -39,6 +39,5 @@
     "grunt-zip": "~0.17.1",
     "mustache": "^2.3.0",
     "socket.io": "^1.7.3"
-    "node-static": "^0.7.10"
   }
 }
