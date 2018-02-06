@@ -8,7 +8,7 @@
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve",
-    "postinstall": "grunt"
+    "build": "grunt"
   },
   "author": {
     "name": "Facundo Martin Gordillo",
