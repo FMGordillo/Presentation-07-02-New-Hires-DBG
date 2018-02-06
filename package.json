@@ -24,7 +24,10 @@
   },
   "license": "MIT",
   "dependencies": {
-  	"grunt-cli": "^1.2.0"
+  	"express": "^4.15.2",
+  	"grunt-cli": "^1.2.0",
+  	"mustache": "^2.3.0",
+    "socket.io": "^1.7.3"
   },
   "devDependencies": {
   	"express": "^4.15.2",
