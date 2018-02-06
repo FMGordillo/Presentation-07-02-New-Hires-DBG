@@ -6,9 +6,9 @@
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
-    "test": "node_modules/.bin/grunt test",
-    "start": "node_modules/.bin/grunt serve",
-    "postinstall": "node_modules/.bin/grunt build"
+    "test": "grunt test",
+    "start": "grunt serve",
+    "postinstall": "grunt build"
   },
   "author": {
     "name": "Facundo Martin Gordillo",
